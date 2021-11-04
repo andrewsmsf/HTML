@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lnag ="pt-Br">
+<hmtl>
+	<head>
+		<meta charset ="UTF-8">
+		<title>EXERC5 - Criando links</title>
+	</head>
+<body>
+	<p>
+		<font face="Calibri">
+	Para saber mais informações sobre o curso de HTML Básico, clique na informação<br>
+	desejada</font></p>
+	<br>
+	<font face="Calibri"><a href="#A">Categoria</a></font><br>
+	<font face="Calibri"><a href="#B">Carga horária</a></font><br>
+	<font face="Calibri"><a href="#C">Descrição do curso</a></font><br>
+	<font face="Calibri"><a href="#D">Estrutura do curso</a></font><br>
+	<font face="Calibri"><a href="#E">Pré-requisitos</a></font><br>
+	<h3><font face="Calibri"size="4"color = "red"> HTML - Básico </font></h3>
+	<br>
+	<font face="Calibri"size="4"color="red"><a name ="A">
+		<b>Categoria do Curso</b></a></font>
+	<br>
+	<p>
+		<font face="Calibri">Desenvolvimento de aplicativos</font></p>
+	<font face="Calibri"size="4"color="red"><a name="B">
+		<b>Carga horária</a></b></font>
+	<br>
+	<p>
+		<font face="Calibri">11 horas</font></p>
+	<font face="Calibri"size="4"color="red"><a name="C">
+		<b>Descrição do curso</b></a></font>
+	<br>
+	<p>
+		<font face="Calibri">
+	Este curso apresenta conceitos básicos de web e mostra as partes e funçõesdas tags<br>
+	em um documento de HTML. Ensina, também, a formatar um página, inserir imagens e<br>
+	muito mais! Tudo isso, com explicações simples e de fácil compreensão.</font></P>
+	<br>
+	<font color="red"><a name="D">
+		<b>Estrutura do curso</b></a></font>
+	<br>
+		<ol>
+			<li> Módulo 1 - Introdução
+			<li> Módulo 2 - HTLM e a <i>web</i>
+			<li>  Módulo 3 - Criando um documento HTML
+			<li>  Módulo 4 - Formatando um documento HTML
+			<li>  Módulo 5 - Criando listas
+			<li>  Módulo 6 - Inserindo imagens
+			<li>  Módulo 7 - Criando <i>links</i>
+			<li>  Módulo 8 - Combinando tags
+			<li>  Módulo 9 - Usando imagens mapeadas
+		</ol>
+	<br>
+	<font face="Calibri" size="4"color="red"><a name="E">
+		<b>Pré-requisitos</b></a></font>
+	<p>
+		<font face="Calibri">
+	Não há pré-requitsitos para a realização deste curso</font></p>
+	<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+</body>
+</html>
